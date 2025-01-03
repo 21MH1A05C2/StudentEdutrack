@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+}
+  .header-image img{
+    height: 60px;
+    margin-left:500px;
+    width: 500px;
+  }
+ .header-container{
+  width:100%;
+ }
+ .geader_h{
+  font-family: 'Times New Roman', Times, serif;
+  background-color:white;
+ }

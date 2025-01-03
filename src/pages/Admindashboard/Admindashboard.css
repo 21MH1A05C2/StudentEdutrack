@@ -1,0 +1,38 @@
+.student-list {
+  width: 70%;
+  margin: 40px auto;
+}
+
+.top-section {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+
+.top-section select {
+  padding: 10px;
+  margin-right: 20px;
+  width: 70%;
+  height: 43px;
+  font-size: 18px;
+  border-radius: 15px;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.log_out{
+  margin-left: 92%;
+}
